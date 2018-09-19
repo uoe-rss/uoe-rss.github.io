@@ -1,20 +1,20 @@
-title:            Balzac
+title:            "Robotics: Science and Systems"
 tagline:          A beautiful theme.
 description:      Describe your website.
-canonical: http://jekyll.gtat.me
+# canonical: http://jekyll.gtat.me
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
-  avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  name:           "The University of Edinburgh"
+  # avatar:         avatar.png
+  # bio:            "Aesthete & Athlete"
+  # email:          cole@coletownsend.com
+  # twitter:        twnsndco
+  github:         uoe-rss
+  # instagram:      ctrunsthis
+  # dribbble:       coletownsend
+  disqus:         uoe-rss-github-io
+  location:       "Edinburgh, UK"
   # Plug in your disqus shortname!
 
 tools:
@@ -23,7 +23,7 @@ tools:
 
 # Open Graph customization
 opengraph:
-  locale:           en_US
+  locale:           en_GB
 
 # Links to include in top navigation
 # For external links add external: true
@@ -31,14 +31,14 @@ links:
   - title: About
     url: /about
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+    url: https://github.com/uoe-rss/uoe-rss.github.io
     external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
-    external: true
+  # - title: Cole Who?
+  #   url: http://coletownsend.com
+  #   external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/London
 future:      true
 highlighter: pygments
 markdown:    kramdown
@@ -48,14 +48,14 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  enable_coderay: false
 
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
+  syntax_highlighter_opts:
+    line_numbers:
+    line_numbers_start: 1
+    tab_width: 4
+    bold_every: 10
+    css: class
 
 sass:
     style: :compressed
