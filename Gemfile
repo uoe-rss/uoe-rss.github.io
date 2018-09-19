@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
-gem 'jekyll-minibundle'
 gem 'coderay'
+gem 'jekyll-minibundle'
+gem 'jekyll'
+gem 'pygments.rb'
 gem 'rake'
