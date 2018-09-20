@@ -1,33 +1,18 @@
 ---
-layout: post-no-feature
-title: "Welcome, 2018 Students!"
-description: "Once when I was six years old I saw a magniﬁcent picture in a book, called
-True Stories from Nature, about the primeval forest."
+layout: post
 comments: true
 category: articles
+image:
+  feature: appleton-tower-aerial.png
+title: "Welcome, 2018 Students!"
+description: > # this means to ignore newlines
+  Introduction to the 'Robotics: Science and Systems' course for the academic year of 2018/2019.
 ---
 
- It was a picture of a boa constrictor in the act of swallowing an animal. Here is a copy of the drawing:
- 
- ![Drawing A]({{ site.url }}/images/money.jpg)
- 
- In the book it said: “Boa constrictors swallow their prey whole, without
-chewing it. After that they are not able to move, and they sleep through the
-six months that they need for digestion.”
+This course will be a Masters degree level introduction to several core areas in robotics: kinematics and dynamics of robots; robot control, classical and modern control theories; motion planning; state estimation and signal processing; localization and mapping.
 
-I pondered deeply, then, over the adventures of the jungle. And after some
-work with a colored pencil I succeeded in making my ﬁrst drawing. 
-My Drawing Number One. It looked like this:
+Lectures on these topics will be complemented by a large practical that exercises knowledge of a cross section of these techniques in the construction of an integrated robot in the lab, motivated by a task such as robot navigation. Also, in addition to lectures on algorithms and lab sessions, we expect that there will be several lecture hours dedicated to discussion of implementation issues - how to go from the equations to code.
 
-![Drawing Number One]({{ site.url }}/images/sticker-mule.jpg)
+---
 
-I showed my masterpiece to the grown-ups, and asked them whether the
-drawing frightened them.
-
-But they answered: “Frighten? Why should any one be frightened by a
-hat?”
-
-My drawing was not a picture of a hat. It was a picture of a boa constrictor
-digesting an elephant. But since the grown-ups were not able to understand it,
-I made another drawing: I drew the inside of the boa constrictor, so that the
-grown-ups could see it clearly. They always need to have things explained.
+The aim of the course is to present a unified view of the field, culminating in a practical involving the development of an integrated robotic system that actually embodies key elements of the major algorithmic techniques. NOTE: This is a 20 pt course, as opposed to the standard 10 pt courses since this covers two introductory topics: robotics & control and a practical element.

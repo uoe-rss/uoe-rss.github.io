@@ -614,7 +614,7 @@ header.site-header nav {
 footer {
     width: 100%;
     background: $black;
-    height: $footerHeight;
+    // height: $footerHeight;
     font-size: $fsp;
     color: $white;
     position: relative;
@@ -636,9 +636,12 @@ footer {
         bottom: 8px;
         font-family: $sans;
         text-transform: uppercase;
-        color: transparentize($white, .9);
+        color: transparentize($white, .5);
         a {
-            color: transparentize($white, .7);
+            color: transparentize($white, .3);
+            &:hover {
+                color: $white;
+            }
         }
     }
     
@@ -654,7 +657,7 @@ footer {
         min-height: 250px;
         padding-left: 5vw;
         p {
-            padding-top: $lh*2;
+            padding-top: $lh;
         }
         li {
             @include row(12);

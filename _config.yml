@@ -28,6 +28,8 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Labs
+    url: /labs
   - title: About
     url: /about
   # - title: Github
@@ -40,7 +42,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
 future:      true
-highlighter: pygments
+highlighter: rouge
 markdown:    kramdown
 
 kramdown:
