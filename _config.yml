@@ -28,8 +28,18 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Project
+    url: /project
+  - title: Organization
+    url: /organization
   - title: Labs
     url: /labs
+  - title: Documentation
+    url: /documentation
+  - title: Resources
+    url: /resources
+  - title: FAQ
+    url: /faq
   - title: About
     url: /about
   # - title: Github
