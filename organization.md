@@ -8,8 +8,8 @@ title: Organization and Marking
 
 ## Practical Times
 
-- Mondays: 15:00 - 17:00 [Appleton Tower, 3.01/3.02 Robotics lab] - first practical is on 24-Sep-2017
-- Thursdays: 11:00 - 13:00 [Appleton Tower 3.01/3.02 Robotics lab] - first practical is on 27-Sep-2017
+- Mondays: 15:00 - 17:00 [Appleton Tower, 3.01/3.02 Robotics lab] - First practical is on 24-Sep-2017
+- Thursdays: 15:00 - 17:00 [Appleton Tower 3.01/3.02 Robotics lab] - First practical is on 27-Sep-2017
 
 The time allocated for practicals will be used to assess the milestone 
 (subtask) completion, for discussion and resolving issues.

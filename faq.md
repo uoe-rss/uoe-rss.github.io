@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-comments: false
+comments: true
 title:  Frequently Asked Questions
 ---
 

@@ -8,6 +8,10 @@ title: Project Resources
 
 [![Architecture](imgs/raspberry_pi_block_diagram.png)](imgs/raspberry_pi_block_diagram.png)
 
+## Hardware Wiring
+
+[![Wiring](imgs/wiring.jpg)](imgs/wiring.jpg)
+
 ## To get Started With Python/Linux
 
 - Python: Codecademy - <https://www.codecademy.com/learn/learn-python>
@@ -25,6 +29,17 @@ Following links provide some basic tips and tricks when building robots using le
 - Motor characteristics: <http://www.philohome.com/motors/motorcomp.htm>
 - Tips and tricks: <http://homepages.inf.ed.ac.uk/gde/work/sdp/Robot_Construction_Guide.odt>
 - Gear ratio calculator: <http://gears.sariel.pl>
+
+## Arena 3d model
+
+Click the preview below to enable the 3D WebGL viewer.
+When the 3D viewer has loaded, the world frame axes will be displayed: X-Y-Z are red, green, and blue, respectively.
+Regarding orientation, we will measure angles in degrees and with respect to the X-axis (theta, θ = 0°).
+This means that a robot looking towards the windows of the lab next to the arena will have θ = 90°.
+
+<iframe src="https://3dwarehouse.sketchup.com/embed.html?mid=9d75cb24-16f1-4da9-b015-7b155e7679ab&amp;width=870&amp;height=489" 
+    marginwidth="0" marginheight="0" scrolling="no" width="870" height="489" frameborder="0">
+</iframe>
 
 ## Raspberry Pi 3 Pinout
 

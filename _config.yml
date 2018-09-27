@@ -32,8 +32,8 @@ links:
     url: /project
   - title: Organization
     url: /organization
-  - title: Labs
-    url: /labs
+  - title: Setup
+    url: /setup
   - title: Documentation
     url: /documentation
   - title: Resources
