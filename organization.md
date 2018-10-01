@@ -8,8 +8,8 @@ title: Organization and Marking
 
 ## Practical Times
 
-- Mondays: 15:00 - 17:00 [Appleton Tower, 3.01/3.02 Robotics lab] - First practical is on 24-Sep-2017
-- Thursdays: 15:00 - 17:00 [Appleton Tower 3.01/3.02 Robotics lab] - First practical is on 27-Sep-2017
+- Mondays: 15:00 - 17:00 [Appleton Tower, 3.01/3.02 Robotics lab] - First practical is on 24-Sep-2018
+- Thursdays: 15:00 - 17:00 [Appleton Tower 3.01/3.02 Robotics lab] - First practical is on 27-Sep-2018
 
 The time allocated for practicals will be used to assess the milestone 
 (subtask) completion, for discussion and resolving issues.
@@ -18,7 +18,7 @@ Please respect other classes that might be having practicals in the lab.
 
 ## How will the practicals be done?
 
-- Decide whether you want to attend the Monday or the Thursday session (by 18/09/2017 - Monday of week 1).
+- Decide whether you want to attend the Monday or the Thursday session (by 18/09/2018 - Monday of week 1).
 - Form a team of 3 students, collect the kit, and learn how the kit works/connects. (Kit handout - week 1).
 - Build a robot and start programming it. Ask the demonstrators if you require help with mechanics, electronics, or programming.
 - Work on minor milestones in your own time and discuss them during the lab sessions (week 2 - week 5).
@@ -106,6 +106,8 @@ For example, a robot able to point its antenna to the satellite should still be 
     - Obstacle avoidance. Recovery when obstacle avoidance fails. Avoid getting stuck.
     - Implement homing behavior to move robot from anywhere in the arena to the deployment location.
     - Given a known location, align the antenna to point towards the satellite.
+- Week 5 - Minor - Preparation for major milestone 
+    - Prepare for major milestone 1 (see week 6 for details)
 - Week 6 - **MAJOR MILESTONE 1**
     - POI detection.
     - Navigate the robot around a zone with a POI.

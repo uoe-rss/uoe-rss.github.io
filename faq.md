@@ -10,8 +10,8 @@ Check the status at http://handy.inf.ed.ac.uk/tc/list.php
 -->
 - *Can I work with the kit outside the lab?*  
     No. Also keep your kit and Lego in the locker when you are not using it.
-- *Can I leave the batteries at the charger?*  
-    Yes. You can even exchange batteries between groups, just make sure you can return two batteries when the course ends.
+- *Can I leave the batteries charging?*  
+    You are free to leave your batteries charging in the lab. However, be considerate with power sockets - the lab is used by other courses who may also need to  access the power. 
 - *I cannot SSH to the Raspberry, what is the problem? (No route to host).*  
     Make sure you have plugged the power cable properly.
     Try turning the brain brick on and off using the power button (not by removing the power).
