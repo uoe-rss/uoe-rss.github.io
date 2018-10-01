@@ -143,3 +143,24 @@ Replacing *<host_name>* with the host name of your Raspberry.
 The -XC argument is to allow forwarding of graphical windows (e.g. imshow()).
 You can now run all the command available on the Raspberry, e.g. sandbox, cp, mv, ...
 
+## Using the Supervisor
+
+### The Power Button
+
+To use the supervisor script, you should have a button connected directly to the 
+GPIO (General Purpose Input Output) pin 21 of the Raspberry Pi inside the lego case.
+Normally, this should already be the done for you.
+
+### The Supervisor
+
+The supervisor is a script automatically launch by the system when the Raspberry is powered up.
+It is meant to be use with an external button to start and stop your behaviour (```toddler.py```) 
+in a more "autonomous" way, without the need for any SSH connection. 
+With the button:
+- Short press: Either start your ```toddler.py``` script or stop all curently running behaviours.
+  Without SSH, the printing outputs are written in a log file located at ```/tmp/sandbox/log.txt```.
+- Long press (2 seconds): Shutdown the Raspberry Pi.
+
+Note that if you need deeper information, you can take a look at the supervisor 
+script located on the Raspberry Pi at ```/usr/local/bin/rss-supervisor.py```.
+
