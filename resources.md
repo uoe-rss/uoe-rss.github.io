@@ -45,3 +45,36 @@ This means that a robot looking towards the windows of the lab next to the arena
 
 [![Architecture](imgs/Raspberry_Pi_3_GPIO_Pinout.jpg)](imgs/Raspberry_Pi_3_GPIO_Pinout.jpg)
 
+## Hardware list
+
+- Raspberry Pi
+- Raspberry Pi Lego Case
+- Raspberry Pi Camera (in the Lego Case)
+- 16GB MicroSD Card
+- Power Bank (Do not charge and use at the same time!)
+- USB Hub, Externally Powered
+- Motor Board
+- 16 x AA Rechargable Batteries
+- 2 x 8 Way Battery Holders
+- Battery Charger
+- Battery Tester
+- Power Lead (Battery Pack to Motor Board)
+- I2C Lead
+- 2 x USB Micro Lead
+- 1 x USB Plugtop Adapter
+- 2 x USB Mini Lead
+- 1 x USB B Lead
+- 1 x Phidget 888 Assembly
+- 2 x NXT Motors
+- 2 x RCX Motors
+- 2 x Whisker Sensors
+- 4 x Lego Leads
+- 2 x Lego Legacy Leads
+- 4 x Microswitches
+- 2 x Infrared Sensors
+- 4 x Light Sensors
+- 1 x Sonar Sensor
+- 1 x Hall Effect Sensor
+- 1 x Servo Motor
+- 1 x Light Bulb
+
