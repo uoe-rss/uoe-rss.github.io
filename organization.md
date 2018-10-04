@@ -105,6 +105,7 @@ For example, a robot able to point its antenna to the satellite should still be 
 - Week 4 - Minor - Collision free navigation and IK
     - Obstacle avoidance. Recovery when obstacle avoidance fails. Avoid getting stuck.
     - Implement homing behavior to move robot from anywhere in the arena to the deployment location.
+      From a random position, explore the arena until the robot detects and stops above the homing location (black).
     - Given a known location, align the antenna to point towards the satellite.
 - Week 5 - Minor - Preparation for major milestone 
     - Prepare for major milestone 1 (see week 6 for details)
@@ -129,7 +130,7 @@ the robot after you are done with the first subtask, start a different program, 
     - Use localisation output for alignment of the antenna as the robot finds distinct POIs.
 - Week 9 - **MAJOR MILESTONE 2**
     - POI inspection.
-    - Navigate the arena with the robot starting from the deployment base.
+    - Navigate the arena with the robot starting from the deployment base (known position and orientation).
     - Data transfer (localisation).
     - Robot location is not given. You have to use localisation to complete this task.
     - Transfer data by aligning the antenna towards the satellite.

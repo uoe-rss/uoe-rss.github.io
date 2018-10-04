@@ -57,11 +57,11 @@ We store the instance in a member variable self.IO so it can be used within the 
 
 The toddler class must also define two callback functions:
 ```python
-def Control(self, OK):
+def Control(self):
 ```
 and
 ```python
-def Vision(self, OK):
+def Vision(self):
 ```
 Each of these callbacks runs on a separate thread. 
 You can block one of them with time.sleep() command or with computation 
