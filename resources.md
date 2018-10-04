@@ -12,6 +12,10 @@ title: Project Resources
 
 [![Wiring](imgs/wiring.jpg)](imgs/wiring.jpg)
 
+## Motor Board Pin Numbering
+
+[![MotorBoard](imgs/motor_board_diagram.png)](imgs/motor_board_diagram.png)
+
 ## To get Started With Python/Linux
 
 - Python: Codecademy - <https://www.codecademy.com/learn/learn-python>
