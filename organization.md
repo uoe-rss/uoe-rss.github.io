@@ -115,7 +115,7 @@ For example, a robot able to point its antenna to the satellite should still be 
     - Stop above the POI and indicate that a POI has been found.
     - Data transfer. From a known position above the POI, align the antenna to point towards the satellite. The position of the POI will be revealed at the beginning of the assessment.
 
-The assessment of this milestone comprises two subtasks. 
+The assessment of this milestone comprises four subtasks. 
 It is not mandatory to carry them out sequentially and uninterruptibly, i.e. you are allowed to pick up 
 the robot after you are done with the first subtask, start a different program, and then demonstrate the remaining subtask.
 
