@@ -41,9 +41,8 @@ When the 3D viewer has loaded, the world frame axes will be displayed: X-Y-Z are
 Regarding orientation, we will measure angles in degrees and with respect to the X-axis (theta, θ = 0°).
 This means that a robot looking towards the windows of the lab next to the arena will have θ = 90°.
 
-<iframe src="https://3dwarehouse.sketchup.com/embed.html?mid=9d75cb24-16f1-4da9-b015-7b155e7679ab&amp;width=870&amp;height=489" 
-    marginwidth="0" marginheight="0" scrolling="no" width="870" height="489" frameborder="0">
-</iframe>
+<iframe src="https://3dwarehouse.sketchup.com/embed.html?mid=46a0b482-c9bf-48c8-b0f7-f76ada491249" 
+frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="870" height="489" allowfullscreen></iframe>
 
 ## Raspberry Pi 3 Pinout
 
