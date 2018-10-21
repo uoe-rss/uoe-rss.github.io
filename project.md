@@ -76,7 +76,7 @@ Click any of the images below to open the original image in a new tab.
 
 [![Arena perspective1](imgs/arena_perspective1.png)](imgs/arena_perspective1.png)
 [![Arena perspective2](imgs/arena_perspective2.png)](imgs/arena_perspective2.png)
-[![Arena top](imgs/arena_top_2018.png)](imgs/arena_top_2018.png)
+[![Arena top](imgs/arena_top_new_satelllite_location.png)](imgs/arena_top_new_satelllite_location.png)
 
 ## The POIs
 
