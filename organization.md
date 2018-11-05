@@ -83,7 +83,6 @@ General notes:
 - After aligning the antenna, the robot must stop for 30 seconds to give enough time to measure its accuracy. This time will not be taken into account in the 5 minutes limit.
 - Visiting the same POI twice (or more) will not count as visiting two POI. We will only count points for distinct, previously not visited POIs.
 - Your robot will have 5 minutes from the moment it starts the mission. You will only earn points from the tasks completed during these 5 minutes.
-- If your robot gets stuck, you can restart the mission (at most 2 times). Each time, one point will be removed from the robustness mark and the other earned points will be reset to zero.
  
 All marks are percentage of the total mark for the whole course.
 
