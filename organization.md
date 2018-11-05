@@ -65,12 +65,14 @@ in by the date shown in the schedule to the Informatics Teaching Organisation (I
     - Short report
         - 1% - Short report and verbal description of the work (this is a group report).
 - Major milestone 2 - 16%
+    The starting position and orientation of the robot will be given.
     - 1% - Integration of milestone tasks.
-    - 3% - Localisation.
-    - 2% - Find one POI and stop over it for 10 seconds.
-    - 3% - Realign the antenna so that it points towards the satellite (at the first POI found).
-    - 3% - Navigate to a second POI (1%) and realign the antenna (2%).
-    - 3% - Navigate to a third POI (1%) and realign the antenna (2%).
+    - 2% - Localization and robustness.
+    - 2% - Find one POI and stop over it. The geometric center of the robot must be over the POI surface.
+    - 3% - Realign the antenna so that it points towards the satellite (at the first POI found). Stop for 30 seconds.
+    - 3% - Navigate to a second POI (1%) and realign the antenna (2%). Stop for 30 seconds.
+    - 3% - Navigate to a third POI (1%) and realign the antenna (2%). Stop for 30 seconds.
+    - 1% - Return to the starting area (black rectangle) and stop over it for 10 seconds.
     - 1% - Short report and verbal description of the work (this is a group report).
 - Final report - 16%
     - Evaluation - 10% (Individual analysis of the performance and choices made throughout the design process).
@@ -78,8 +80,10 @@ in by the date shown in the schedule to the Informatics Teaching Organisation (I
     - The report will be submitted INDIVIDUALLY by each student (NO group submissions).
 
 General notes:
+- After aligning the antenna, the robot must stop for 30 seconds to give enough time to measure its accuracy. This time will not be taken into account in the 5 minutes limit.
 - Visiting the same POI twice (or more) will not count as visiting two POI. We will only count points for distinct, previously not visited POIs.
 - Your robot will have 5 minutes from the moment it starts the mission. You will only earn points from the tasks completed during these 5 minutes.
+- If your robot gets stuck, you can restart the mission (at most 2 times). Each time, one point will be removed from the robustness mark and the other earned points will be reset to zero.
  
 All marks are percentage of the total mark for the whole course.
 
@@ -132,7 +136,6 @@ the robot after you are done with the first subtask, start a different program, 
     - POI inspection.
     - Navigate the arena with the robot starting from the deployment base (known position and orientation).
     - Data transfer (localisation).
-    - Robot location is not given. You have to use localisation to complete this task.
     - Transfer data by aligning the antenna towards the satellite.
     - Integration. Complete navigation, at least one POI detection, and at least one antenna alignment.
 - Week 10 - **Final report** and kit collection
