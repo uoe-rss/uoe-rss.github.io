@@ -65,7 +65,7 @@ in by the date shown in the schedule to the Informatics Teaching Organisation (I
     - Short report
         - 1% - Short report and verbal description of the work (this is a group report).
 - Major milestone 2 - 16%
-    The starting position and orientation of the robot will be given.
+    - The starting position and orientation of the robot will be given.
     - 1% - Integration of milestone tasks.
     - 2% - Localization and robustness.
     - 2% - Find one POI and stop over it. The geometric center of the robot must be over the POI surface.
